@@ -22,12 +22,7 @@ A practical statistics notebook for exploring distributions and summarizing data
 
 All notebook code cells execute successfully.
 
-## Recommended repository details
 
-- **Name:** `descriptive-statistics-python-lab`
-- **Description:** Beginner-friendly Python lab covering descriptive statistics, distributions, pandas analysis, visualization, and interpretation.
-- **Topics:** `descriptive-statistics`, `statistics`, `python`, `pandas`, `data-analysis`, `data-visualization`, `google-colab`, `education`
-- **Demo:** Use the Colab badge above.
 
 ## Author
 
